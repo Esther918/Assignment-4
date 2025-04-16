@@ -8,7 +8,7 @@ conda install -c conda-forge fenics-dolfinx mpich pyvista
 pip install imageio
 pip install gmsh
 ```
-Run the example (this is an example from: https://jsdokken.com/dolfinx-tutorial/chapter2/linearelasticity_code.html)  
+Run the example (this is an example from: https://jsdokken.com/dolfinx-tutorial/chapter2/linearelasticity_code.html  see linearelasticity_code.ipynb)  
 ```
 python linearelasticity.py
 ```
