@@ -14,19 +14,19 @@ python linearelasticity.py
 ```
 # Assignment-4 Part 2
 * Part A
-  ```
-  python linear_elasticity.py
-  ```
-  Analytical solution: Maximum deflection at x=5, u =−0.0265625
+```
+python linear_elasticity.py
+```
+Analytical solution: Maximum deflection at x=5, u =−0.0265625  
   
-* Part B  
- ```
-  python partB.py
-  ``` 
+* Part B
+```
+python partB.py
+``` 
 * Part C
-  ```
-  python fail.py
-  ```
+```
+python fail.py
+```
 Reasons that FEniCSX fail:  
 1. The mesh is invalid
 
