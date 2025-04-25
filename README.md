@@ -17,7 +17,10 @@ python linearelasticity.py
 ```
 python linear_elasticity.py
 ```
-Analytical solution: Maximum deflection at x=5, u =−0.0265625  
+Comparison:
+Analytical tip displacement: -8.758929e-01 mm
+Numerical tip displacement: -7.966060e-01 mm
+Relative error: 9.05%
   
 * Part B
 ```
