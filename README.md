@@ -36,6 +36,7 @@ p=1: DOFs=54, Error=-93.18%
 p=2: DOFs=170, Error=-1.42%  
 p=3: DOFs=350, Error=-0.62%  
 p=4: DOFs=594, Error=-0.37%  
+see h_refinement_error.png/ p_refinement_error.png  
 
 * Part C
 ```
