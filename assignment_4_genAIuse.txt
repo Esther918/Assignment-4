@@ -1,0 +1,4 @@
+Deepseek was used in this assignment.
+I use Deepseek to help with the plotting.
+Deepseek was used to help with the evaluation of tip displacement (bb_tree, cell_candidates, colliding_cells)
+Deepseek also hleped me debug my code.
