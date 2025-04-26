@@ -20,7 +20,7 @@ python linear_elasticity.py
 Comparison:  
 Analytical tip displacement: -8.758929e-01  
 Numerical tip displacement: -7.966060e-01   
-  
+>> (Nx, Ny = 10, 2) actually gives better performance of numerical displacement accuracy.
 * Part B
 ```
 python partB.py
