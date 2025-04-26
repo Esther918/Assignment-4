@@ -18,9 +18,8 @@ python linearelasticity.py
 python linear_elasticity.py
 ```
 Comparison:  
-Analytical tip displacement: -8.758929e-01 mm  
-Numerical tip displacement: -7.966060e-01 mm  
-Relative error: 9.05%  
+Analytical tip displacement: -8.758929e-01  
+Numerical tip displacement: -7.966060e-01   
   
 * Part B
 ```
@@ -42,6 +41,8 @@ p=4: DOFs=594, Error=-0.37%
 ```
 python fail.py
 ```
+Relative error: 10.45%  
 Reasons that FEniCSX fail:  
-1. The mesh is invalid
+1. Improper mesh size
+2. Free boundary condition
 
